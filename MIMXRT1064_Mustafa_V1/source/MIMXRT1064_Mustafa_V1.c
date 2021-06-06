@@ -1,37 +1,106 @@
 
-
-
 #include <stdio.h>
 #include "board.h"
 #include "peripherals.h"
 #include "pin_mux.h"
 #include "clock_config.h"
 #include "MIMXRT1064.h"
+#include "fsl_edma.h"
+#include "fsl_dmamux.h"
 #include "fsl_debug_console.h"
 
 
-int main(void) {
 
-    /* Init board hardware. */
-    BOARD_ConfigMPU();
-    BOARD_InitBootPins();
-    BOARD_InitBootClocks();
-    BOARD_InitBootPeripherals();
-#ifndef BOARD_INIT_DEBUG_CONSOLE_PERIPHERAL
-    /* Init FSL debug console. */
-    BOARD_InitDebugConsole();
-#endif
 
-    PRINTF("Hello World\n");
+/*******************************************************************************
+ * Definitions
+ ******************************************************************************/
+#define EXAMPLE_DMA                 DMA0
+#define EXAMPLE_DMAMUX              DMAMUX
+#define DMA0_DMA16_DriverIRQHandler DMA_CH_0_16_DriverIRQHandler
+#define BUFF_LENGTH 4U
 
-    /* Force the counter to be placed into memory. */
-    volatile static int i = 0 ;
-    /* Enter an infinite loop, just incrementing a counter. */
-    while(1) {
-        i++ ;
-        /* 'Dummy' NOP to allow source level single stepping of
-            tight while() loop */
-        __asm volatile ("nop");
+/*******************************************************************************
+ * Prototypes
+ ******************************************************************************/
+
+/*******************************************************************************
+ * Variables
+ ******************************************************************************/
+edma_handle_t g_EDMA_Handle;
+volatile bool g_Transfer_Done = false;
+
+/*******************************************************************************
+ * Code
+ ******************************************************************************/
+
+/* User callback function for EDMA transfer. */
+void EDMA_Callback(edma_handle_t *handle, void *param, bool transferDone, uint32_t tcds)
+{
+    if (transferDone)
+    {
+        g_Transfer_Done = true;
     }
-    return 0 ;
+}
+
+AT_NONCACHEABLE_SECTION_INIT(uint32_t srcAddr[BUFF_LENGTH])  = {0x01, 0x02, 0x03, 0x04};
+AT_NONCACHEABLE_SECTION_INIT(uint32_t destAddr[BUFF_LENGTH]) = {0x00, 0x00, 0x00, 0x00};
+
+/*!
+ * @brief Main function
+ */
+int main(void)
+{
+    uint32_t i = 0;
+    edma_transfer_config_t transferConfig;
+    edma_config_t userConfig;
+    PRINTF("Mustafa/r/n");
+    BOARD_ConfigMPU();
+    BOARD_InitPins();
+    BOARD_BootClockRUN();
+    BOARD_InitDebugConsole();
+    /* Print source buffer */
+    PRINTF("EDMA memory to memory transfer example begin.\r\n\r\n");
+    PRINTF("Destination Buffer:\r\n");
+    for (i = 0; i < BUFF_LENGTH; i++)
+    {
+        PRINTF("%d\t", destAddr[i]);
+    }
+    /* Configure DMAMUX */
+    DMAMUX_Init(EXAMPLE_DMAMUX);
+#if defined(FSL_FEATURE_DMAMUX_HAS_A_ON) && FSL_FEATURE_DMAMUX_HAS_A_ON
+    DMAMUX_EnableAlwaysOn(EXAMPLE_DMAMUX, 0, true);
+#else
+    DMAMUX_SetSource(EXAMPLE_DMAMUX, 0, 63);
+#endif /* FSL_FEATURE_DMAMUX_HAS_A_ON */
+    DMAMUX_EnableChannel(EXAMPLE_DMAMUX, 0);
+    /* Configure EDMA one shot transfer */
+    /*
+     * userConfig.enableRoundRobinArbitration = false;
+     * userConfig.enableHaltOnError = true;
+     * userConfig.enableContinuousLinkMode = false;
+     * userConfig.enableDebugMode = false;
+     */
+    EDMA_GetDefaultConfig(&userConfig);
+    EDMA_Init(EXAMPLE_DMA, &userConfig);
+    EDMA_CreateHandle(&g_EDMA_Handle, EXAMPLE_DMA, 0);
+    EDMA_SetCallback(&g_EDMA_Handle, EDMA_Callback, NULL);
+    EDMA_PrepareTransfer(&transferConfig, srcAddr, sizeof(srcAddr[0]), destAddr, sizeof(destAddr[0]),
+                         sizeof(srcAddr[0]), sizeof(srcAddr), kEDMA_MemoryToMemory);
+    EDMA_SubmitTransfer(&g_EDMA_Handle, &transferConfig);
+    EDMA_StartTransfer(&g_EDMA_Handle);
+    /* Wait for EDMA transfer finish */
+    while (g_Transfer_Done != true)
+    {
+    }
+    /* Print destination buffer */
+    PRINTF("\r\n\r\nEDMA memory to memory transfer example finish.\r\n\r\n");
+    PRINTF("Destination Buffer:\r\n");
+    for (i = 0; i < BUFF_LENGTH; i++)
+    {
+        PRINTF("%d\t", destAddr[i]);
+    }
+    while (1)
+    {
+    }
 }
