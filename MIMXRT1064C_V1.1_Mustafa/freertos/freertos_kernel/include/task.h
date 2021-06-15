@@ -1435,7 +1435,6 @@ TaskHandle_t xTaskGetHandle( const char *pcNameToQuery ) PRIVILEGED_FUNCTION; /*
  * @param xTask Handle of the task associated with the stack to be checked.
  * Set xTask to NULL to check the stack of the calling task.
  *
- * @return The smallest amount of free stack space there has been (in words, so
  * actual spaces on the stack rather than bytes) since the task referenced by
  * xTask was created.
  */
