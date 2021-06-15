@@ -1,0 +1,632 @@
+#Sat Jun 12 20:54:01 CEST 2021
+\!/=
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/ARM\n/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/LocalRepo/MCUXpressoIDE_11.3.1/workspace\n/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/armmustafa\n/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/MustafaRepo/MCUXpressoIDE_11.3.1/workspace\n/Users/mustafaabdelazim/Documents/MCUXpressoIDE_11.3.1/workspace
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=true
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
+/instance/com.crt.quickstart/indexerInitialised=true
+/instance/com.nxp.mcuxpresso.core.datamodels/sdk.component.overwrite.ask=true
+/instance/com.nxp.mcuxpresso.core.datamodels/sdk.component.overwrite.policy=Replace
+/instance/com.nxp.mcuxpresso.core.datamodels/sdk.paths.pref=/Users/mustafaabdelazim/mcuxpresso/02/SDKPackages\:\:
+/instance/com.nxp.swtools//configNamePerspectiveMap_/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/armmustafa/MIMXRT1064_C_Mustafa_V1.1/MIMXRT1064_C_Mustafa_V1.1.mex=com.nxp.swtools.mux.perspective
+/instance/com.nxp.swtools//configNamePerspectiveMap_/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/armmustafa/MIMXRT1064_Project/MIMXRT1064_Project.mex=com.nxp.swtools.mux.perspective
+/instance/com.nxp.swtools/dataUpdate=AUTO
+/instance/com.nxp.swtools/isPowerGroupsViewClosedByUser=true
+/instance/com.nxp.swtools/lineEndsStyle=defaultStyle
+/instance/com.nxp.swtools/proxy=NATIVE
+/instance/com.nxp.swtools/saveLastFolderPath=/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/armmustafa/MIMXRT1064_C_Mustafa_V1.1
+/instance/com.nxp.swtools/undoHistorySize=10
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.errnoreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"No return\\")",implicit\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.errreturnvalue.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused return value\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.localvarreturn=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.localvarreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Returning the address of a local variable\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.nocommentinside=-Error
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.nocommentinside.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Nesting comments\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.nolinecomment=-Error
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.nolinecomment.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Line comments\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.noreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"No return value\\")",implicit\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AbstractClassCreation.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Abstract class cannot be instantiated\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AmbiguousProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Ambiguous problem\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AssignmentInConditionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Assignment in condition\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AssignmentToItselfProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Assignment to itself\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.BlacklistProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.BlacklistProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Function or method is blacklisted\\")",blacklist\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CStyleCastProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CStyleCastProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"C-Style cast instead of C++ cast\\")",checkMacro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CaseBreakProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"No break at end of case\\")",no_break_comment\=>"no break",last_case_param\=>false,empty_case_param\=>false,enable_fallthrough_quickfix_param\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CatchByReference.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Catching by reference is recommended\\")",unknown\=>false,exceptions\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CircularReferenceProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Circular inheritance\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ClassMembersInitialization.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Class members should be properly initialized\\")",skip\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CopyrightProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CopyrightProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Lack of copyright information\\")",regex\=>".*Copyright.*"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.DecltypeAutoProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid 'decltype(auto)' specifier\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FieldResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Field cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FloatCompareProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FloatCompareProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Direct float comparison\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FunctionResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Function cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.GotoStatementProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.GotoStatementProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Goto statement used\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidArguments.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid arguments\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidTemplateArgumentsProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid template argument\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.LabelStatementNotFoundProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Label statement not found\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MagicNumberProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MagicNumberProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Avoid magic numbers\\")",checkArray\=>true,checkOperatorParen\=>true,exceptions\=>(1,0,-1,2,1.0,0.0,-1.0)}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MemberDeclarationNotFoundProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Member declaration not found\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MethodResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Method cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissCaseProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissCaseProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing cases in switch\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissDefaultProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissDefaultProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing default in switch\\")",defaultWithAllEnums\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissReferenceProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissReferenceProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing reference return value in assignment operator\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissSelfCheckProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissSelfCheckProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing self check in assignment operator\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MultipleDeclarationsProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MultipleDeclarationsProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Multiple variable declaration\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NamingConventionFunctionChecker.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Name convention for function\\")",pattern\=>"^[a-z]",macro\=>true,exceptions\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NonVirtualDestructorProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Class has a virtual method and non-virtual destructor\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.OverloadProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid overload\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.RedeclarationProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid redeclaration\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.RedefinitionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid redefinition\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ReturnStyleProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Return with parenthesis\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ScanfFormatStringSecurityProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Format String Vulnerability\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ShallowCopyProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ShallowCopyProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Miss copy constructor or assignment operator\\")",onlynew\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StatementHasNoEffectProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Statement has no effect\\")",macro\=>true,exceptions\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StaticVariableInHeaderProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StaticVariableInHeaderProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Static variable in header file\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SuggestedParenthesisProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Suggested parenthesis around expression\\")",paramNot\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SuspiciousSemicolonProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Suspicious semicolon\\")",else\=>false,afterelse\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SymbolShadowingProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SymbolShadowingProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Symbol shadowing\\")",paramFuncParameters\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.TypeResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Type cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedFunctionDeclarationProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused function declaration\\")",macro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedStaticFunctionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused static function\\")",macro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedVariableDeclarationProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused variable declaration in file scope\\")",macro\=>true,exceptions\=>("@(\#)","$Id")}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UsingInHeaderProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UsingInHeaderProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Using directive in header\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VariableResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Symbol is not resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VirtualMethodCallProblem=-Error
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VirtualMethodCallProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Virtual method call in constructor/destructor\\")"}
+/instance/org.eclipse.cdt.core.prj-MIMXRT1064C_V1.1_Mustafa/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_master/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_slave/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core/ToolChainManager/order/0.id=gcc-x86_64-/usr/bin/clang
+/instance/org.eclipse.cdt.core/ToolChainManager/order/0.type=org.eclipse.cdt.build.clang
+/instance/org.eclipse.cdt.core/ToolChainManager/order/n=1
+/instance/org.eclipse.cdt.core/build.all.configs.enabled=false
+/instance/org.eclipse.cdt.core/build.proj.ref.configs.enabled=false
+/instance/org.eclipse.cdt.core/doxygen/doxygen_new_line_after_brief=true
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_brief_tag=false
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_javadoc_tags=true
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_pre_tag=false
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_structural_commands=false
+/instance/org.eclipse.cdt.core/errorparser.default.ids=org.eclipse.cdt.autotools.core.ErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GmakeErrorParser;org.eclipse.cdt.core.VCErrorParser;org.eclipse.cdt.core.CWDLocator;org.eclipse.cdt.core.MakeErrorParser
+/instance/org.eclipse.cdt.core/indexer/indexAllFiles=true
+/instance/org.eclipse.cdt.core/indexer/indexAllHeaderVersions=false
+/instance/org.eclipse.cdt.core/indexer/indexAllVersionsSpecificHeaders=
+/instance/org.eclipse.cdt.core/indexer/indexOnOpen=true
+/instance/org.eclipse.cdt.core/indexer/indexUnusedHeadersWithDefaultLang=true
+/instance/org.eclipse.cdt.core/indexer/indexerId=org.eclipse.cdt.core.fastIndexer
+/instance/org.eclipse.cdt.core/indexer/skipFilesLargerThanMB=8
+/instance/org.eclipse.cdt.core/indexer/skipImplicitReferences=false
+/instance/org.eclipse.cdt.core/indexer/skipIncludedFilesLargerThanMB=16
+/instance/org.eclipse.cdt.core/indexer/skipMacroReferences=false
+/instance/org.eclipse.cdt.core/indexer/skipReferences=false
+/instance/org.eclipse.cdt.core/indexer/skipTypeReferences=false
+/instance/org.eclipse.cdt.core/indexer/updatePolicy=0
+/instance/org.eclipse.cdt.core/indexer/useHeuristicIncludeResolution=true
+/instance/org.eclipse.cdt.core/language.settings.providers.workspace.prefs.toggle=true
+/instance/org.eclipse.cdt.core/macros/workspace=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<macros>\n<stringMacro name\="SDK_LPC_RESOURCES" type\="VALUE_PATH_DIR" value\="/Applications/MCUXpressoIDE_11.3.1_5262/ide/plugins/com.nxp.mcuxpresso.core.datamodels.resources_11.3.0.202009091825/override"/>\n</macros>\n
+/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceFilesInBinaries=true
+/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceNotFoundEditor=all_time
+/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceRootsAtTopLevelOfProject=true
+/instance/org.eclipse.cdt.debug.core/BreakpointActionManager.actionData=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<breakpointActionData/>\n
+/instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<sourceLookupDirector>\n<sourceContainers duplicates\="false">\n<container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\n<container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\n<container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\n</sourceContainers>\n</sourceLookupDirector>\n
+/instance/org.eclipse.cdt.dsf.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.make.core/org.eclipse.cdt.make.core.scanner.discovery.console.enabled=false
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064C_V1.1_Mustafa.null.1085951800/com.crt.advproject.config.exe.debug.1338456200=com.crt.advproject.link.cpp.exe.debug.70255981\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.104611705\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.1137516577\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1272808445\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.1389713235\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.216196214\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.44441753\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064C_V1.1_Mustafa.null.1952285046/com.crt.advproject.config.exe.debug.1338456200=com.crt.advproject.link.cpp.exe.debug.70255981\=rebuildState\\\=false\\n\ncom.crt.advproject.link.exe.debug.104611705\=rebuildState\\\=false\\n\ncom.crt.advproject.gas.exe.debug.1137516577\=rebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.debug.1272808445\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.1389713235\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.debug.216196214\=rebuildState\\\=false\\n\ncom.crt.advproject.config.exe.debug.1338456200\=rcState\\\=0\\nrebuildState\\\=false\\n\ncom.crt.advproject.gcc.exe.debug.44441753\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064C_V1.1_Mustafa.null.1952285046/com.crt.advproject.config.exe.release.881160342=com.crt.advproject.cpp.exe.release.1106197311\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.908461182\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.1872916525\=rebuildState\\\=true\\n\ncom.crt.advproject.config.exe.release.881160342\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.release.1132657929\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.499186175\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.1432871629\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.1596499208\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_C_Mustafa_V1.1.null.1522607799/com.crt.advproject.config.exe.debug.1458720878=com.crt.advproject.gas.exe.debug.1541309173\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.3835884\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.120831641\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.827535877\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.112520075\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.1867379649\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.532615616\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_C_Mustafa_V1.1.null.356075840/com.crt.advproject.config.exe.debug.1458720878=com.crt.advproject.gas.exe.debug.1541309173\=rebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.debug.3835884\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.120831641\=rebuildState\\\=false\\n\ncom.crt.advproject.gcc.exe.debug.827535877\=rebuildState\\\=false\\n\ncom.crt.advproject.config.exe.debug.1458720878\=rcState\\\=0\\nrebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.112520075\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.debug.1867379649\=rebuildState\\\=false\\n\ncom.crt.advproject.link.exe.debug.532615616\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_C_Mustafa_V1.1.null.356075840/com.crt.advproject.config.exe.release.410181062=com.crt.advproject.config.exe.release.410181062\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.release.1482994868\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.1724514196\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.1997480059\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.release.1254463912\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.664266674\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.1818558379\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.704879126\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Mustafa_V1.null.1047947082/com.crt.advproject.config.exe.debug.1322685904=com.crt.advproject.tool.debug.debug.977660902\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1293133659\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.728702639\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.1304136830\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.1525728277\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.1565261983\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.923761039\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Mustafa_V1.null.610518099/com.crt.advproject.config.exe.debug.1322685904=com.crt.advproject.config.exe.debug.1322685904\=rcState\\\=0\\nrebuildState\\\=false\\n\ncom.crt.advproject.tool.debug.debug.977660902\=rebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.debug.1293133659\=rebuildState\\\=false\\n\ncom.crt.advproject.link.cpp.exe.debug.728702639\=rebuildState\\\=false\\n\ncom.crt.advproject.gas.exe.debug.1304136830\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.debug.1525728277\=rebuildState\\\=false\\n\ncom.crt.advproject.link.exe.debug.1565261983\=rebuildState\\\=false\\n\ncom.crt.advproject.gcc.exe.debug.923761039\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Mustafa_V1.null.610518099/com.crt.advproject.config.exe.release.128074199=com.crt.advproject.tool.debug.release.624643142\=rebuildState\\\=true\\n\ncom.crt.advproject.config.exe.release.128074199\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.396692173\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.915887393\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.829916485\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.release.1207878547\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.307625573\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.137462168\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Project.null.1306250771/com.crt.advproject.config.exe.debug.430996327=com.crt.advproject.gcc.exe.debug.902078059\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.126461014\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.599636199\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.444505310\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.1869248088\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1520738422\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.159036457\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Project.null.1635407972/com.crt.advproject.config.exe.debug.1364554988=com.crt.advproject.toolchain.exe.debug.27275495\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.971257878\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.1123294924\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.154055974\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.52182405\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.551494301\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.1748122425\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Project.null.1762717815/com.crt.advproject.config.exe.debug.430996327=com.crt.advproject.gcc.exe.debug.902078059\=rebuildState\\\=false\\n\ncom.crt.advproject.link.exe.debug.126461014\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.debug.599636199\=rebuildState\\\=false\\n\ncom.crt.advproject.tool.debug.debug.444505310\=rebuildState\\\=false\\n\ncom.crt.advproject.gas.exe.debug.1869248088\=rebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.debug.1520738422\=rebuildState\\\=false\\n\ncom.crt.advproject.link.cpp.exe.debug.159036457\=rebuildState\\\=false\\n\ncom.crt.advproject.config.exe.debug.430996327\=rcState\\\=0\\nrebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Project.null.1762717815/com.crt.advproject.config.exe.release.1631942877=com.crt.advproject.tool.debug.release.890718807\=rebuildState\\\=false\\n\ncom.crt.advproject.config.exe.release.1631942877\=rcState\\\=5\\nrebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.1938170440\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.release.688812032\=rebuildState\\\=false\\n\ncom.crt.advproject.link.cpp.exe.release.2004432715\=rebuildState\\\=false\\n\ncom.crt.advproject.gas.exe.release.348680585\=rebuildState\\\=false\\n\ncom.crt.advproject.gcc.exe.release.428502969\=rebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.release.118591600\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Project.null.852355830/com.crt.advproject.config.exe.debug.1364554988=com.crt.advproject.config.exe.debug.1364554988\=rcState\\\=0\\nrebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.debug.27275495\=rebuildState\\\=false\\n\ncom.crt.advproject.link.exe.debug.971257878\=rebuildState\\\=false\\n\ncom.crt.advproject.tool.debug.debug.1123294924\=rebuildState\\\=false\\n\ncom.crt.advproject.link.cpp.exe.debug.154055974\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.debug.52182405\=rebuildState\\\=false\\n\ncom.crt.advproject.gcc.exe.debug.551494301\=rebuildState\\\=false\\n\ncom.crt.advproject.gas.exe.debug.1748122425\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_Project.null.852355830/com.crt.advproject.config.exe.release.30322047=com.crt.advproject.tool.debug.release.922285158\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.1776106568\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.release.666531007\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.637965309\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.1266290189\=rebuildState\\\=true\\n\ncom.crt.advproject.config.exe.release.30322047\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.1812587450\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.1707518324\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_V1.1.null.23482239/com.crt.advproject.config.exe.debug.628551349=com.crt.advproject.gcc.exe.debug.1611976928\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.111853314\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.1376896390\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.883190794\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.1838381537\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.1946142357\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.530574370\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_V1.1.null.259717366/com.crt.advproject.config.exe.debug.628551349=com.crt.advproject.gcc.exe.debug.1611976928\=rebuildState\\\=false\\n\ncom.crt.advproject.cpp.exe.debug.111853314\=rebuildState\\\=false\\n\ncom.crt.advproject.config.exe.debug.628551349\=rcState\\\=0\\nrebuildState\\\=false\\n\ncom.crt.advproject.link.exe.debug.1376896390\=rebuildState\\\=false\\n\ncom.crt.advproject.toolchain.exe.debug.883190794\=rebuildState\\\=false\\n\ncom.crt.advproject.tool.debug.debug.1838381537\=rebuildState\\\=false\\n\ncom.crt.advproject.link.cpp.exe.debug.1946142357\=rebuildState\\\=false\\n\ncom.crt.advproject.gas.exe.debug.530574370\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/MIMXRT1064_V1.1.null.259717366/com.crt.advproject.config.exe.release.1376411174=com.crt.advproject.cpp.exe.release.847578221\=rebuildState\\\=true\\n\ncom.crt.advproject.config.exe.release.1376411174\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.1438699024\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.1062339027\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.900497543\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.release.834129502\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.81431440\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.2062795046\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_master.null.1669628227/com.crt.advproject.config.exe.debug.1036324784=com.crt.advproject.link.exe.debug.1729374879\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1222073044\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.306391435\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.1333981147\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.2024097588\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.995737153\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.2111019147\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_master.null.1669628227/com.crt.advproject.config.exe.release.1999682475=com.crt.advproject.link.exe.release.1880582555\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.1250780835\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.475162061\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.release.1265817099\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.938446156\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.release.1166585629\=rebuildState\\\=true\\n\ncom.crt.advproject.config.exe.release.1999682475\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.1033336011\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_master.null.77416052/com.crt.advproject.config.exe.debug.1036324784=com.crt.advproject.link.exe.debug.1729374879\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1222073044\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.306391435\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.1333981147\=rebuildState\\\=true\\n\ncom.crt.advproject.tool.debug.debug.2024097588\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.995737153\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.2111019147\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_slave.null.1284921013/com.crt.advproject.config.exe.debug.1557045401=com.crt.advproject.tool.debug.debug.359478131\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.2027816563\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.715575993\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1583624018\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.361869158\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.1311936583\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.1030062958\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_slave.null.1284921013/com.crt.advproject.config.exe.release.2040900336=com.crt.advproject.tool.debug.release.1624410566\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.release.518066004\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.release.823028262\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.release.2126214598\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.release.1957079315\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.release.303630619\=rebuildState\\\=true\\n\ncom.crt.advproject.config.exe.release.2040900336\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.release.1288400493\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/evkmimxrt1064_cmsis_lpi2c_edma_b2b_transfer_slave.null.772605147/com.crt.advproject.config.exe.debug.1557045401=com.crt.advproject.tool.debug.debug.359478131\=rebuildState\\\=true\\n\ncom.crt.advproject.link.exe.debug.2027816563\=rebuildState\\\=true\\n\ncom.crt.advproject.gas.exe.debug.715575993\=rebuildState\\\=true\\n\ncom.crt.advproject.toolchain.exe.debug.1583624018\=rebuildState\\\=true\\n\ncom.crt.advproject.cpp.exe.debug.361869158\=rebuildState\\\=true\\n\ncom.crt.advproject.link.cpp.exe.debug.1311936583\=rebuildState\\\=true\\n\ncom.crt.advproject.gcc.exe.debug.1030062958\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.ui.prj-MIMXRT1064_Mustafa_V1/buildConsole/keepLog=true
+/instance/org.eclipse.cdt.ui.prj-MIMXRT1064_Mustafa_V1/buildConsole/logLocation=/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/armmustafa/.metadata/.plugins/org.eclipse.cdt.ui/MIMXRT1064_Mustafa_V1.build.log
+/instance/org.eclipse.cdt.ui/asm_directive=221,40,103
+/instance/org.eclipse.cdt.ui/asm_label=217,232,247
+/instance/org.eclipse.cdt.ui/buildConsoleBackgroundColor=17,34,39
+/instance/org.eclipse.cdt.ui/buildConsoleInfoStreamColor=255,146,0
+/instance/org.eclipse.cdt.ui/buildConsoleOutputStreamColor=0,252,255
+/instance/org.eclipse.cdt.ui/buildConsoleProblemBackgroundColor=111,34,42
+/instance/org.eclipse.cdt.ui/buildConsoleProblemInfoBackgroundColor=27,34,48
+/instance/org.eclipse.cdt.ui/buildConsoleProblemWarningBackgroundColor=55,74,68
+/instance/org.eclipse.cdt.ui/c_braces=249,250,244
+/instance/org.eclipse.cdt.ui/c_comment_task_tag=154,140,124
+/instance/org.eclipse.cdt.ui/c_default=217,232,247
+/instance/org.eclipse.cdt.ui/c_keyword=221,40,103
+/instance/org.eclipse.cdt.ui/c_multi_line_comment=98,98,98
+/instance/org.eclipse.cdt.ui/c_numbers=104,151,187
+/instance/org.eclipse.cdt.ui/c_operators=230,230,250
+/instance/org.eclipse.cdt.ui/c_single_line_comment=98,98,98
+/instance/org.eclipse.cdt.ui/c_string=23,198,163
+/instance/org.eclipse.cdt.ui/c_type=221,40,103
+/instance/org.eclipse.cdt.ui/content_assist_category_order=org.eclipse.cdt.ui.templateProposalCategory\:0\u0000org.eclipse.cdt.ui.parserProposalCategory\:1\u0000org.eclipse.cdt.ui.helpProposalCategory\:2\u0000org.eclipse.cdt.ui.textProposalCategory\:3\u0000
+/instance/org.eclipse.cdt.ui/content_assist_disabled_computers=
+/instance/org.eclipse.cdt.ui/content_assist_parameters_background=59,91,116
+/instance/org.eclipse.cdt.ui/content_assist_parameters_foreground=62,62,62
+/instance/org.eclipse.cdt.ui/content_assist_proposals_background=80,84,77
+/instance/org.eclipse.cdt.ui/content_assist_proposals_foreground=159,159,159
+/instance/org.eclipse.cdt.ui/content_assist_proposals_timeout=3000
+/instance/org.eclipse.cdt.ui/editor_folding_preprocessor_enabled=true
+/instance/org.eclipse.cdt.ui/editor_folding_statements=true
+/instance/org.eclipse.cdt.ui/hoverModifierMasks=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;0;org.eclipse.cdt.ui.ProblemHover;0;org.eclipse.cdt.ui.CDocHover;0;org.eclipse.cdt.ui.CMacroExpansionHover;0;org.eclipse.cdt.ui.CSourceHover;131072;org.eclipse.cdt.ui.AnnotationHover;0;
+/instance/org.eclipse.cdt.ui/hoverModifiers=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;\!0;org.eclipse.cdt.ui.ProblemHover;\!0;org.eclipse.cdt.ui.CDocHover;\!0;org.eclipse.cdt.ui.CMacroExpansionHover;\!0;org.eclipse.cdt.ui.CSourceHover;Shift;org.eclipse.cdt.ui.AnnotationHover;\!0;
+/instance/org.eclipse.cdt.ui/inactiveCodeColor=62,62,62
+/instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.multi=98,98,98
+/instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.recognizedTag=30,120,155
+/instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.single=98,98,98
+/instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.text.templates.custom=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.cdt.ui/overriddenByCSS=,asm_directive,asm_label,c_braces,c_comment_task_tag,c_default,c_keyword,c_multi_line_comment,c_numbers,c_operators,c_single_line_comment,c_string,c_type,org.eclipse.cdt.internal.ui.text.doctools.multi,org.eclipse.cdt.internal.ui.text.doctools.recognizedTag,org.eclipse.cdt.internal.ui.text.doctools.single,pp_default,pp_directive,pp_header,semanticHighlighting.class.color,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.enumerator.color,semanticHighlighting.enumerator.enabled,semanticHighlighting.externalSDK.color,semanticHighlighting.externalSDK.enabled,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.function.color,semanticHighlighting.function.enabled,semanticHighlighting.functionDeclaration.color,semanticHighlighting.functionDeclaration.enabled,semanticHighlighting.functionDeclaration.bold,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.macroDefinition.color,semanticHighlighting.macroDefinition.enabled,semanticHighlighting.macroDefinition.bold,semanticHighlighting.method.color,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclaration.color,semanticHighlighting.methodDeclaration.enabled,semanticHighlighting.methodDeclaration.bold,semanticHighlighting.namespace.color,semanticHighlighting.namespace.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticMethod.color,semanticHighlighting.staticMethod.enabled,semanticHighlighting.typedef.color,semanticHighlighting.typedef.enabled,semanticHighlighting.typedef.bold,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,
+/instance/org.eclipse.cdt.ui/pp_default=217,232,247
+/instance/org.eclipse.cdt.ui/pp_directive=221,40,103
+/instance/org.eclipse.cdt.ui/pp_header=23,198,163
+/instance/org.eclipse.cdt.ui/scalability.detect=false
+/instance/org.eclipse.cdt.ui/scalability.numberOfLines=3000
+/instance/org.eclipse.cdt.ui/semanticHighlighting.class.bold=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.class.color=18,144,195
+/instance/org.eclipse.cdt.ui/semanticHighlighting.class.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.color=204,129,186
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.italic=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumClass.color=0,202,127
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.color=141,218,248
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.color=150,236,63
+/instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.field.color=102,225,248
+/instance/org.eclipse.cdt.ui/semanticHighlighting.field.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.function.color=167,236,33
+/instance/org.eclipse.cdt.ui/semanticHighlighting.function.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.bold=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.color=13,209,64
+/instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.globalVariable.color=40,187,195
+/instance/org.eclipse.cdt.ui/semanticHighlighting.globalVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.label.color=255,112,249
+/instance/org.eclipse.cdt.ui/semanticHighlighting.label.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.color=255,191,38
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.color=237,127,72
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.bold=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.color=13,209,64
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroSubstitution.color=106,222,152
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroSubstitution.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.method.color=167,236,33
+/instance/org.eclipse.cdt.ui/semanticHighlighting.method.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.bold=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.color=13,209,64
+/instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.namespace.color=128,242,246
+/instance/org.eclipse.cdt.ui/semanticHighlighting.namespace.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.color=121,171,255
+/instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.color=141,218,248
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.color=150,236,63
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typeParameter.color=191,164,164
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typeParameter.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.bold=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.color=18,144,195
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.enabled=true
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=47,47,47
+/instance/org.eclipse.cdt.ui/spelling_locale=en_GB
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.core.resources/pathvariable.SDK_LPC_RESOURCES=/Applications/MCUXpressoIDE_11.3.1_5262/ide/plugins/com.nxp.mcuxpresso.core.datamodels.resources_11.3.0.202009091825/override
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.core.variables/org.eclipse.core.variables.valueVariables=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<valueVariables>\n<valueVariable description\="PEplugin ID" name\="PEplugin" readOnly\="false" value\="com.pemicro.debug.gdbjtag.pne_4.9.1.202104011728/osx"/>\n</valueVariables>\n
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.debug.gdbjtag.launchConfigurationType=org.eclipse.cdt.debug.gdbjtag.core.dsfLaunchDelegate,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.applicationLaunchType=org.eclipse.cdt.dsf.gdb.launch.localCLaunch,debug,;org.eclipse.cdt.cdi.launch.localCLaunch,run,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.attachLaunchType=org.eclipse.cdt.dsf.gdb.launch.attachCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug,;
+/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions/>\n
+/instance/org.eclipse.debug.ui/Console.highWaterMark=88000
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryKnownColor=235,235,235
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryUnknownColor=170,175,185
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryView.orientation=0
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND=150,80,115
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.changedDebugElement=255,128,128
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=53,53,53
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.errorColor=225,30,70
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.inColor=140,175,210
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=235,235,235
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=always
+/instance/org.eclipse.debug.ui/overriddenByCSS=,org.eclipse.debug.ui.MemoryHistoryKnownColor,org.eclipse.debug.ui.MemoryHistoryUnknownColor,org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND,org.eclipse.debug.ui.changedDebugElement,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.errorColor,org.eclipse.debug.ui.inColor,org.eclipse.debug.ui.outColor,
+/instance/org.eclipse.debug.ui/pref_state_memento.com.nxp.mcuxpresso.core.debug.ui.views.NXPGlobalVariablesView=<?xml version\="1.0" encoding\="UTF-8"?>\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="NXPGlobalVariablesView">\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="org.eclipse.debug.ui.check"/>\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\n</PRESENTATION_CONTEXT_PROPERTIES>\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/pref_state_memento.com.nxp.mcuxpresso.core.debug.ui.views.NXPHeapAndStackUsageView=<?xml version\="1.0" encoding\="UTF-8"?>\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="NXPHeapAndStackUsageView"/>\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView">\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\n</PRESENTATION_CONTEXT_PROPERTIES>\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/preferredTargets=org.eclipse.cdt.debug.ui.toggleCBreakpointTarget,org.eclipse.cdt.debug.ui.toggleCDynamicPrintfTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=/Users/mustafaabdelazim/OneDrive/mustafa.a.azim/OneDrive/Repos/armmustafa/.git\:
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=.git\:
+/instance/org.eclipse.help.base/dialog_infopop=false
+/instance/org.eclipse.help.base/help_view_open_mode=in_place
+/instance/org.eclipse.help.base/remoteHelpHost=
+/instance/org.eclipse.help.base/remoteHelpICEnabled=
+/instance/org.eclipse.help.base/remoteHelpName=
+/instance/org.eclipse.help.base/remoteHelpOn=false
+/instance/org.eclipse.help.base/remoteHelpPath=
+/instance/org.eclipse.help.base/remoteHelpPort=
+/instance/org.eclipse.help.base/remoteHelpPreferred=false
+/instance/org.eclipse.help.base/remoteHelpProtocol=
+/instance/org.eclipse.help.base/scope=
+/instance/org.eclipse.help.base/search_from_browser=false
+/instance/org.eclipse.help.base/window_infopop=false
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="" defaultVMConnector\=""/>\n
+/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
+/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=200,0,0
+/instance/org.eclipse.jdt.ui/content_assist_parameters_background=52,57,61
+/instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=238,238,238
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=52,57,61
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=238,238,238
+/instance/org.eclipse.jdt.ui/java_bracket=249,250,244
+/instance/org.eclipse.jdt.ui/java_comment_task_tag=154,140,124
+/instance/org.eclipse.jdt.ui/java_default=217,232,247
+/instance/org.eclipse.jdt.ui/java_doc_default=128,128,128
+/instance/org.eclipse.jdt.ui/java_doc_keyword=154,140,124
+/instance/org.eclipse.jdt.ui/java_doc_link=169,156,140
+/instance/org.eclipse.jdt.ui/java_doc_tag=30,120,155
+/instance/org.eclipse.jdt.ui/java_keyword=204,108,29
+/instance/org.eclipse.jdt.ui/java_keyword_bold=false
+/instance/org.eclipse.jdt.ui/java_keyword_return=204,108,29
+/instance/org.eclipse.jdt.ui/java_keyword_return_bold=false
+/instance/org.eclipse.jdt.ui/java_multi_line_comment=128,128,128
+/instance/org.eclipse.jdt.ui/java_operator=230,230,250
+/instance/org.eclipse.jdt.ui/java_single_line_comment=128,128,128
+/instance/org.eclipse.jdt.ui/java_string=23,198,163
+/instance/org.eclipse.jdt.ui/matchingBracketsColor=249,250,244
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.layout=2
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=19
+/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_default,java_doc_keyword,java_doc_link,java_doc_tag,java_keyword,java_keyword_bold,java_keyword_return,java_keyword_return_bold,java_multi_line_comment,java_operator,java_single_line_comment,java_string,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.color,semanticHighlighting.class.enabled,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.inheritedField.color,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.localVariableDeclaration.bold,semanticHighlighting.method.color,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.color,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.methodDeclarationName.bold,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.color,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,semanticHighlighting.typeParameter.bold,semanticHighlighting.varKeyword.color,semanticHighlighting.yieldKeyword.color,semanticHighlighting.recordKeyword.color,sourceHoverBackgroundColor,
+/instance/org.eclipse.jdt.ui/pf_coloring_argument=221,40,103
+/instance/org.eclipse.jdt.ui/pf_coloring_assignment=217,232,247
+/instance/org.eclipse.jdt.ui/pf_coloring_comment=128,128,128
+/instance/org.eclipse.jdt.ui/pf_coloring_key=217,232,247
+/instance/org.eclipse.jdt.ui/pf_coloring_value=23,198,163
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.color=62,171,230
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.color=128,246,167
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.color=160,160,160
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.color=235,75,100
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=18,144,195
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.color=128,128,128
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.strikethrough=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.underline=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.color=204,129,186
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=102,225,248
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.color=143,143,191
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=205,246,104
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.color=128,242,246
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=243,236,121
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.color=242,242,0
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.color=167,236,33
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=30,181,64
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.color=104,151,187
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=121,171,255
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.recordKeyword.color=204,120,50
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.color=141,218,248
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.color=141,218,248
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=150,236,63
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.color=177,102,218
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.color=191,164,164
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.varKeyword.color=204,120,50
+/instance/org.eclipse.jdt.ui/semanticHighlighting.yieldKeyword.color=204,120,50
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=68,68,68
+/instance/org.eclipse.jdt.ui/spelling_locale=en_GB
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.jsch.core/org.eclipse.jsch.core.hasMigratedSsh2Preferences=true
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_C_Mustafa_V1.1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Mustafa_Debugger,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_Project Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_V1.1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064C_V1.1_Mustafa Debug
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_C_Mustafa_V1.1\ Debug/activeLaunchMode=debug
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_C_Mustafa_V1.1\ Debug/activeLaunchTarget=null\:---
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_Mustafa_V1\ Debug/activeLaunchMode=debug
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MIMXRT1064_Mustafa_V1\ Debug/activeLaunchTarget=null\:---
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Mustafa_Debugger/activeLaunchMode=debug
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Mustafa_Debugger/activeLaunchTarget=null\:---
+/instance/org.eclipse.search/org.eclipse.search.defaultPerspective=org.eclipse.search.defaultPerspective.none
+/instance/org.eclipse.tm.terminal.control/TerminalPrefInvertColors=true
+/instance/org.eclipse.tm.terminal.control/overriddenByCSS=,TerminalPrefInvertColors,
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/Applications/Firefox.app" name\="Firefox"/>\n</web-browsers>
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=47,47,47
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.FindScope=30,120,155
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=204,204,204
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground=33,66,131
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground=147,161,161
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+/instance/org.eclipse.ui.editors/TextOccurrenceIndicationColor=27, 98, 145
+/instance/org.eclipse.ui.editors/asOccurencesIndicationColor=72,72,72
+/instance/org.eclipse.ui.editors/breakpointIndicationColor=51,119,193
+/instance/org.eclipse.ui.editors/coverage_stylePreferences=NONE
+/instance/org.eclipse.ui.editors/coverage_text=false
+/instance/org.eclipse.ui.editors/currentIPColor=90,90,90
+/instance/org.eclipse.ui.editors/currentLineColor=55,55,55
+/instance/org.eclipse.ui.editors/deletionIndicationColor=224,226,228
+/instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=27,98,145
+/instance/org.eclipse.ui.editors/hyperlinkColor=102,175,249
+/instance/org.eclipse.ui.editors/hyperlinkColor.SystemDefault=false
+/instance/org.eclipse.ui.editors/infoIndicationColor=86,194,170
+/instance/org.eclipse.ui.editors/isBookmarkGoToNextNavigationTarget=true
+/instance/org.eclipse.ui.editors/isBreakpointIndicationGoToNextNavigationTarget=true
+/instance/org.eclipse.ui.editors/lineNumberColor=119,145,154
+/instance/org.eclipse.ui.editors/linked.slave.color=66,156,255
+/instance/org.eclipse.ui.editors/matchingTagIndicationColor=72,72,72
+/instance/org.eclipse.ui.editors/occurrenceIndicationColor=27,98,145
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=76,76,119
+/instance/org.eclipse.ui.editors/overriddenByCSS=,TextOccurrenceIndicationColor,AbstractTextEditor.Color.Background.SystemDefault,AbstractTextEditor.Color.SelectionForeground.SystemDefault,AbstractTextEditor.Color.SelectionBackground.SystemDefault,AbstractTextEditor.Color.Background,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.SelectionBackground,AbstractTextEditor.Color.SelectionForeground,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.FindScope,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,filteredSearchResultIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,overrideIndicatorColor,printMarginColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,spellingIndicationColor,writeOccurrenceIndicationColor,
+/instance/org.eclipse.ui.editors/overrideIndicatorColor=78,120,117
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.editors/printMarginColor=255,0,0
+/instance/org.eclipse.ui.editors/searchResultHighlighting=false
+/instance/org.eclipse.ui.editors/searchResultIndication=true
+/instance/org.eclipse.ui.editors/searchResultIndicationColor=94,94,94
+/instance/org.eclipse.ui.editors/searchResultTextStyle=BOX
+/instance/org.eclipse.ui.editors/secondaryIPColor=90,90,90
+/instance/org.eclipse.ui.editors/spellingIndicationColor=253,170,211
+/instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=27,98,145
+/instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
+/instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/platformState=1622372869294
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.cdt.ui.navigator.filters.AnonymousStructFilter\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.cdt.ui.navigator.filters.ForwardDeclarationFilter\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:com.nxp.mcuxpresso.addons.docsupport.commonFilter\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
+/instance/org.eclipse.ui.workbench/ACTIVE_HYPERLINK_COLOR=138,201,242
+/instance/org.eclipse.ui.workbench/CONFLICTING_COLOR=240,15,66
+/instance/org.eclipse.ui.workbench/CONTENT_ASSIST_BACKGROUND_COLOR=52,57,61
+/instance/org.eclipse.ui.workbench/CONTENT_ASSIST_FOREGROUND_COLOR=238,238,238
+/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.debug.ui.prototype.decorator\:true,org.eclipse.cdt.ui.indexedFiles\:false,org.eclipse.cdt.managedbuilder.ui.excludedFile\:true,org.eclipse.cdt.managedbuilder.ui.includeFolder\:true,org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator\:false,org.eclipse.team.cvs.ui.decorator\:false,com.crt.advproject.gui.CRTCustomBuildSettingsDecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:true,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.jdt.internal.ui.without.test.code.decorator\:true,com.nxp.mcuxpresso.core.datamodels.sdkNatureDecorator\:true,com.nxp.mcuxpresso.core.datamodels.ui.multicoreProjectDecorator\:true,com.nxp.mcuxpresso.core.debug.support.linkserver.launch.\:true,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator\:true,com.nxp.mcuxpresso.addons.docsupport.ui.decorators.projectdecorator\:true,
+/instance/org.eclipse.ui.workbench/ERROR_COLOR=247,68,117
+/instance/org.eclipse.ui.workbench/HYPERLINK_COLOR=111,197,238
+/instance/org.eclipse.ui.workbench/INCOMING_COLOR=31,179,235
+/instance/org.eclipse.ui.workbench/OUTGOING_COLOR=238,238,238
+/instance/org.eclipse.ui.workbench/RESOLVED_COLOR=108,210,17
+/instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.activeElementBg=40,40,40
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.basicInformation=255,255,255
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.bg=51,51,51
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.disabledElementBg=45,45,45
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.disabledLine=90,90,90
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.disabledSelected=95,95,15
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.junction=170,170,170
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.line=165,165,165
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.selected=210,210,15
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.clocks.diagram.selectedComponetBg=55,54,51
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_dedicated_BG=105,105,105
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_error_BG=150,0,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_error_transparent_BG=105,0,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_ok_BG=0,150,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_ok_transparent_BG=0,105,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_warning_BG=164, 106, 0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.allocated_warning_transparent_BG=108,54,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.non_allocated_BG=155,155,155
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.package_bottom_BG=78,78,78
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.package_line_between_peripherals=0,0,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.package_text_FG=255,255,255
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.package_top_BG=116,120,109
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.pins.package_view_BG=56,61,63
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.default_BG=65,70,74
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.default_FG=221,221,221
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.default_autoselected_value_BG=105, 105, 105
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.default_header_BG=56,61,63
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.default_list_BG=51,51,51
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.default_toolbar_BG=92,97,100
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.disabled_FG=100,100,100
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.highlight_BG=170,170,0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.highlight_change_BG=100, 100, 0
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.source_full_lines_added_BG=115,200,115
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.source_full_lines_removed_BG=200,115,115
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.source_margin_added_BG=10,159,10
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.source_margin_changed_BG=10,10,159
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.source_margin_removed_BG=159,10,10
+/instance/org.eclipse.ui.workbench/com.nxp.swtools.utils.title_BG=36,36,36
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.CMergeViewer=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.make.internal.ui.compare.MakefileMergeViewer=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.buildconsole.ConsoleFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.editors.textfont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.DetailPaneFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageEditorFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffAddBackgroundColor=11,121,90
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffAddForegroundColor=216,254,245
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineBackgroundColor=71,71,71
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineFont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineForegroundColor=242,242,242
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHunkBackgroundColor=53,97,113
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHunkForegroundColor=233,242,254
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffRemoveBackgroundColor=117,2,36
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffRemoveForegroundColor=255,232,237
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.IgnoredResourceBackgroundColor=42,42,42
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.IgnoredResourceForegroundColor=120,120,120
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeBackgroundColor=42,42,42
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeForegroundColor=114,157,186
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.inherited=143,143,191
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.Javadoc.backgroundColor=52,57,61
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.Javadoc.foregroundColor=238,238,238
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.REVISION_NEWEST_COLOR=75,44,3
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.REVISION_OLDEST_COLOR=154,113,61
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.search.ui.match.highlight=206,92,0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.editors.rangeIndicatorColor=27,118,153
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.HOVER_BACKGROUND=52,57,61
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.HOVER_FOREGROUND=238,238,238
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INFORMATION_BACKGROUND=81,86,88
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INFORMATION_FOREGROUND=238,238,238
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.sse.ui.textfont=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/overriddenByCSS=,com.nxp.swtools.utils.highlight_change_BG,com.nxp.swtools.utils.highlight_BG,com.nxp.swtools.utils.source_margin_removed_BG,com.nxp.swtools.utils.source_margin_added_BG,com.nxp.swtools.utils.source_margin_changed_BG,com.nxp.swtools.utils.source_full_lines_removed_BG,com.nxp.swtools.utils.source_full_lines_added_BG,com.nxp.swtools.utils.default_FG,com.nxp.swtools.utils.default_BG,com.nxp.swtools.utils.default_list_BG,com.nxp.swtools.utils.default_header_BG,com.nxp.swtools.utils.disabled_FG,com.nxp.swtools.utils.title_BG,com.nxp.swtools.utils.default_autoselected_value_BG,com.nxp.swtools.utils.default_toolbar_BG,com.nxp.swtools.pins.allocated_ok_BG,com.nxp.swtools.pins.allocated_ok_transparent_BG,com.nxp.swtools.pins.allocated_error_BG,com.nxp.swtools.pins.allocated_error_transparent_BG,com.nxp.swtools.pins.allocated_warning_BG,com.nxp.swtools.pins.allocated_warning_transparent_BG,com.nxp.swtools.pins.allocated_dedicated_BG,com.nxp.swtools.pins.non_allocated_BG,com.nxp.swtools.pins.package_bottom_BG,com.nxp.swtools.pins.package_line_between_peripherals,com.nxp.swtools.pins.package_text_FG,com.nxp.swtools.pins.package_top_BG,com.nxp.swtools.pins.package_view_BG,com.nxp.swtools.clocks.diagram.bg,com.nxp.swtools.clocks.diagram.junction,com.nxp.swtools.clocks.diagram.basicInformation,com.nxp.swtools.clocks.diagram.selected,com.nxp.swtools.clocks.diagram.disabledSelected,com.nxp.swtools.clocks.diagram.selectedComponetBg,com.nxp.swtools.clocks.diagram.activeElementBg,com.nxp.swtools.clocks.diagram.disabledElementBg,com.nxp.swtools.clocks.diagram.disabledLine,com.nxp.swtools.clocks.diagram.line,org.eclipse.egit.ui.DiffAddBackgroundColor,org.eclipse.egit.ui.DiffAddForegroundColor,org.eclipse.egit.ui.DiffHeadlineBackgroundColor,org.eclipse.egit.ui.DiffHeadlineForegroundColor,org.eclipse.egit.ui.DiffHunkBackgroundColor,org.eclipse.egit.ui.DiffHunkForegroundColor,org.eclipse.egit.ui.DiffRemoveBackgroundColor,org.eclipse.egit.ui.DiffRemoveForegroundColor,org.eclipse.egit.ui.IgnoredResourceBackgroundColor,org.eclipse.egit.ui.IgnoredResourceForegroundColor,org.eclipse.egit.ui.UncommittedChangeBackgroundColor,org.eclipse.egit.ui.UncommittedChangeForegroundColor,org.eclipse.jdt.ui.ColoredLabels.inherited,org.eclipse.jdt.ui.Javadoc.backgroundColor,org.eclipse.jdt.ui.Javadoc.foregroundColor,ACTIVE_HYPERLINK_COLOR,CONFLICTING_COLOR,CONTENT_ASSIST_BACKGROUND_COLOR,CONTENT_ASSIST_FOREGROUND_COLOR,org.eclipse.ui.workbench.INFORMATION_BACKGROUND,org.eclipse.ui.workbench.INFORMATION_FOREGROUND,org.eclipse.ui.workbench.HOVER_BACKGROUND,org.eclipse.ui.workbench.HOVER_FOREGROUND,ERROR_COLOR,HYPERLINK_COLOR,INCOMING_COLOR,OUTGOING_COLOR,RESOLVED_COLOR,org.eclipse.search.ui.match.highlight,org.eclipse.ui.editors.rangeIndicatorColor,org.eclipse.jface.REVISION_NEWEST_COLOR,org.eclipse.jface.REVISION_OLDEST_COLOR,
+/instance/org.eclipse.ui.workbench/pref_console_font=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Menlo|10.0|0|COCOA|1|;
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_background=200,200,0
+/instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_foreground=200,0,0
+/instance/org.eclipse.wst.sse.ui/content_assist_parameters_background=52,57,61
+/instance/org.eclipse.wst.sse.ui/content_assist_parameters_foreground=238,238,238
+/instance/org.eclipse.wst.sse.ui/content_assist_proposals_background=52,57,61
+/instance/org.eclipse.wst.sse.ui/content_assist_proposals_foreground=238,238,238
+/instance/org.eclipse.wst.sse.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,
+/instance/org.eclipse.wst.validation/DELEGATES_PREFERENCE=delegateValidatorList
+/instance/org.eclipse.wst.validation/USER_BUILD_PREFERENCE=enabledBuildValidatorList
+/instance/org.eclipse.wst.validation/USER_MANUAL_PREFERENCE=enabledManualValidatorList
+/instance/org.eclipse.wst.validation/USER_PREFERENCE=saveAutomaticallyfalseprojectsCanOverridetruedisableAllValidationfalseversion1.2.800.v201904082137
+/instance/org.eclipse.wst.validation/confirmDialog=true
+/instance/org.eclipse.wst.validation/override=true
+/instance/org.eclipse.wst.validation/saveAuto=false
+/instance/org.eclipse.wst.validation/stateTS=0
+/instance/org.eclipse.wst.validation/suspend=false
+/instance/org.eclipse.wst.validation/vf.version=3
+/instance/org.eclipse.wst.xml.ui/cdataBorder=\#A7EC21 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/cdataText=\#93bde8 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/commentBorder=\#626262 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/commentText=\#626262 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/declBorder=\#A7EC21 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/doctypeExternalId=\#cf96eb | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/doctypeExternalPubref=\#f0a253 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/doctypeExtrenalSysref=\#fbd153 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/doctypeName=\#A7EC21 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/entityReference=\#DD2867 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/overriddenByCSS=,cdataBorder,cdataText,commentBorder,commentText,declBorder,doctypeExternalId,doctypeExternalPubref,doctypeExtrenalSysref,doctypeName,entityReference,piBorder,piContent,tagAttributeEquals,tagAttributeName,tagAttributeValue,tagBorder,tagName,xmlContent,
+/instance/org.eclipse.wst.xml.ui/piBorder=\#0394be | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/piContent=\#D9E8F7 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/tagAttributeEquals=\#52ca11 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/tagAttributeName=\#a7ec21 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/tagAttributeValue=\#17c694 | null | false | true | false | false
+/instance/org.eclipse.wst.xml.ui/tagBorder=\#808080 | null | false | false | false | false
+/instance/org.eclipse.wst.xml.ui/tagName=\#03a8d8 | null | true | false | false | false
+/instance/org.eclipse.wst.xml.ui/xmlContent=\#D9E8F7 | null | false | false | false | false
+/instance/org.eclipse.xtext.ui/overriddenByCSS=,syntaxColorer.keyword.color,syntaxColorer.keyword.style,syntaxColorer.punctuation.color,syntaxColorer.comment.color,syntaxColorer.task.color,syntaxColorer.task.style,syntaxColorer.string.color,syntaxColorer.number.color,syntaxColorer.default.color,syntaxColorer.error.color,syntaxColorer.xbase.static.method.invocation.color,syntaxColorer.xbase.static.method.invocation.style,syntaxColorer.xbase.static.field.color,syntaxColorer.xbase.static.field.style,syntaxColorer.xbase.field.color,syntaxColorer.xbase.annotation.color,syntaxColorer.xbase.extension.method.invacation.color,syntaxColorer.xbase.deprecated.members.color,syntaxColorer.xbase.deprecated.members.style,
+/instance/org.eclipse.xtext.ui/syntaxColorer.comment.color=98,98,98
+/instance/org.eclipse.xtext.ui/syntaxColorer.default.color=217,232,247
+/instance/org.eclipse.xtext.ui/syntaxColorer.error.color=179,26,64
+/instance/org.eclipse.xtext.ui/syntaxColorer.keyword.color=221,40,103
+/instance/org.eclipse.xtext.ui/syntaxColorer.keyword.style=1
+/instance/org.eclipse.xtext.ui/syntaxColorer.number.color=104,151,187
+/instance/org.eclipse.xtext.ui/syntaxColorer.punctuation.color=217,232,247
+/instance/org.eclipse.xtext.ui/syntaxColorer.string.color=41,197,163
+/instance/org.eclipse.xtext.ui/syntaxColorer.task.color=154,140,124
+/instance/org.eclipse.xtext.ui/syntaxColorer.task.style=1
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.annotation.color=255,147,147
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.deprecated.members.color=171,31,54
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.deprecated.members.style=536870912
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.extension.method.invacation.color=171,48,0
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.field.color=102,225,248
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.static.field.color=141,218,248
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.static.field.style=2
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.static.method.invocation.color=150,236,63
+/instance/org.eclipse.xtext.ui/syntaxColorer.xbase.static.method.invocation.style=2
+@com.crt.quickstart=11.3.0.202104011950
+@com.nxp.mcuxpresso.core.datamodels=11.3.0.202103241416
+@org.eclipse.cdt.codan.core=4.0.200.201910281707
+@org.eclipse.cdt.core=6.11.1.202006011430
+@org.eclipse.cdt.debug.core=8.4.100.202003021747
+@org.eclipse.cdt.dsf.ui=2.5.400.202003021149
+@org.eclipse.cdt.make.core=7.4.200.202003021747
+@org.eclipse.cdt.managedbuilder.core=8.8.1.202004251814
+@org.eclipse.cdt.ui=6.7.1.202005220422
+@org.eclipse.core.net=1.3.900.v20200428-1255
+@org.eclipse.core.resources=3.13.700.v20200209-1624
+@org.eclipse.core.variables=3.4.800.v20200120-1101
+@org.eclipse.debug.core=3.15.100.v20200514-0816
+@org.eclipse.debug.ui=3.14.500.v20200520-0842
+@org.eclipse.egit.core=5.8.0.202006091008-r
+@org.eclipse.help.base=4.2.1000.v20200604-0540
+@org.eclipse.jdt.debug.ui=3.11.0.v20200525-2012
+@org.eclipse.jdt.launching=3.17.100.v20200526-1503
+@org.eclipse.jdt.ui=3.21.100.v20200602-0959
+@org.eclipse.jsch.core=1.3.900.v20200422-1935
+@org.eclipse.launchbar.core=2.3.100.202001140305
+@org.eclipse.search=3.11.1000.v20200410-1852
+@org.eclipse.tm.terminal.control=4.6.1.202005200056
+@org.eclipse.ui=3.117.0.v20200518-1705
+@org.eclipse.ui.browser=3.6.800.v20200410-1405
+@org.eclipse.ui.editors=3.13.200.v20200501-2307
+@org.eclipse.ui.genericeditor=1.1.700.v20200211-1227
+@org.eclipse.ui.ide=3.17.100.v20200530-0835
+@org.eclipse.ui.navigator=3.9.300.v20200513-0930
+@org.eclipse.ui.workbench=3.119.0.v20200521-1247
+@org.eclipse.wst.sse.ui=1.7.0.v202005172302
+@org.eclipse.wst.validation=1.2.800.v201904082137
+@org.eclipse.wst.xml.ui=1.2.400.v202005192253
+@org.eclipse.xtext.ui=2.22.0.v20200602-1242
+file_export_version=3.0
