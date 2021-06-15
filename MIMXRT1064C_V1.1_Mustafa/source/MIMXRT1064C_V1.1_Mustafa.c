@@ -13,7 +13,7 @@
 #include "fsl_dmamux.h"
 #include "task.h"
 #include "timers.h"
-
+#include "GlobalBuffer.h"
 
 #ifndef TotalArrayBuff
 #define TotalArrayBuff	3
@@ -38,24 +38,7 @@ const int32_t BufSize=1024;
 
 
 
-void initialize_globalbuf(void)
-{
-	int cnt =0;
-	IdxBuf=TotalArrayBuff;
-	do{
-		  if(BufPtr[cnt]==NULL){
-			  BufPtr[cnt] = (char*)calloc(BufSize,sizeof(char));
-			  if(BufPtr[cnt]==NULL)
-				  PRINTF("GlobalBufError: %d \r\n",cnt);
-		  }
-		  else if(BufPtr[cnt]>0){
-			  free(BufPtr[cnt]);
-			  BufPtr[cnt] = (char*)calloc(BufSize,sizeof(char));
-		  }
-		  cnt++;
-	}while(cnt<IdxBuf);
 
-}
 
 void EDMA_Callback(edma_handle_t *handle, void *param, bool transferDone, uint32_t tcds)
 {
