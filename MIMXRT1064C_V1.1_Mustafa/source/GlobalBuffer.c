@@ -1,10 +1,15 @@
 
-
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include "fsl_debug_console.h"
+#include "Globals.h"
+#include "GlobalBuffer.h"
 
 void initialize_globalbuf(void)
 {
 	int cnt =0;
-	IdxBuf=TotalArrayBuff;
+	IdxBuf=3;
 	do{
 		  if(BufPtr[cnt]==NULL){
 			  BufPtr[cnt] = (char*)calloc(BufSize,sizeof(char));

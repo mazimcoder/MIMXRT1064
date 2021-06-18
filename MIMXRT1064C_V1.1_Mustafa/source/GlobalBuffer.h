@@ -1,12 +1,9 @@
-/*
- * GlobalBuffer.h
- *
- *  Created on: 15 Jun 2021
- *      Author: mustafaabdelazim
- */
+
 
 #ifndef GLOBALBUFFER_H_
 #define GLOBALBUFFER_H_
+
+#include "GlobalBuffer.h"
 
 void initialize_globalbuf(void);
 
