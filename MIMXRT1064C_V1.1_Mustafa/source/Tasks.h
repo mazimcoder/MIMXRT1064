@@ -3,7 +3,7 @@
 #ifndef TASKS_H_
 #define TASKS_H_
 
-#include "Tasks.h"
+
 
 void KeepAlltasksAlive(void);
 
@@ -13,6 +13,6 @@ void Task2 (void *pVparameter);
 
 void Task3 (void *pVparameter);
 
-
+void CreatexTasks(void);
 
 #endif /* TASKS_H_ */

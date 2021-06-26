@@ -9,7 +9,7 @@
 void initialize_globalbuf(void)
 {
 	int cnt =0;
-	IdxBuf=3;
+	IdxBuf=globalbufferArrayCapacity;
 	do{
 		  if(BufPtr[cnt]==NULL){
 			  BufPtr[cnt] = (char*)calloc(BufSize,sizeof(char));

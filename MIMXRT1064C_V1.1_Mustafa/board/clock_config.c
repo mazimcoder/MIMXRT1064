@@ -63,7 +63,7 @@ outputs:
 - {id: ENET_125M_CLK.outFreq, value: 2.4 MHz}
 - {id: ENET_25M_REF_CLK.outFreq, value: 1.2 MHz}
 - {id: FLEXIO1_CLK_ROOT.outFreq, value: 30 MHz}
-- {id: FLEXIO2_CLK_ROOT.outFreq, value: 30 MHz}
+- {id: FLEXIO2_CLK_ROOT.outFreq, value: 120/7 MHz}
 - {id: FLEXSPI2_CLK_ROOT.outFreq, value: 1440/11 MHz}
 - {id: FLEXSPI_CLK_ROOT.outFreq, value: 1440/11 MHz}
 - {id: GPT1_ipg_clk_highfreq.outFreq, value: 75 MHz}
@@ -95,6 +95,8 @@ outputs:
 settings:
 - {id: CCM.AHB_PODF.scale, value: '1', locked: true}
 - {id: CCM.ARM_PODF.scale, value: '2', locked: true}
+- {id: CCM.FLEXIO2_CLK_PODF.scale, value: '7'}
+- {id: CCM.FLEXIO2_CLK_PRED.scale, value: '4'}
 - {id: CCM.FLEXSPI2_PODF.scale, value: '2', locked: true}
 - {id: CCM.FLEXSPI2_SEL.sel, value: CCM_ANALOG.PLL3_PFD0_CLK}
 - {id: CCM.FLEXSPI_PODF.scale, value: '2', locked: true}
@@ -348,9 +350,9 @@ void BOARD_BootClockRUN(void)
     /* Disable Flexio2 clock gate. */
     CLOCK_DisableClock(kCLOCK_Flexio2);
     /* Set FLEXIO2_CLK_PRED. */
-    CLOCK_SetDiv(kCLOCK_Flexio2PreDiv, 1);
+    CLOCK_SetDiv(kCLOCK_Flexio2PreDiv, 3);
     /* Set FLEXIO2_CLK_PODF. */
-    CLOCK_SetDiv(kCLOCK_Flexio2Div, 7);
+    CLOCK_SetDiv(kCLOCK_Flexio2Div, 6);
     /* Set Flexio2 clock source. */
     CLOCK_SetMux(kCLOCK_Flexio2Mux, 3);
     /* Set Pll3 sw clock source. */

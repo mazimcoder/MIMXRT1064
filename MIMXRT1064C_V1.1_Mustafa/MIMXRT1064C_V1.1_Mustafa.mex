@@ -812,7 +812,7 @@
                   <clock_output id="ENET_125M_CLK.outFreq" value="2.4 MHz" locked="false" accuracy=""/>
                   <clock_output id="ENET_25M_REF_CLK.outFreq" value="1.2 MHz" locked="false" accuracy=""/>
                   <clock_output id="FLEXIO1_CLK_ROOT.outFreq" value="30 MHz" locked="false" accuracy=""/>
-                  <clock_output id="FLEXIO2_CLK_ROOT.outFreq" value="30 MHz" locked="false" accuracy=""/>
+                  <clock_output id="FLEXIO2_CLK_ROOT.outFreq" value="120/7 MHz" locked="false" accuracy=""/>
                   <clock_output id="FLEXSPI2_CLK_ROOT.outFreq" value="1440/11 MHz" locked="false" accuracy=""/>
                   <clock_output id="FLEXSPI_CLK_ROOT.outFreq" value="1440/11 MHz" locked="false" accuracy=""/>
                   <clock_output id="GPT1_ipg_clk_highfreq.outFreq" value="75 MHz" locked="false" accuracy=""/>
@@ -845,6 +845,8 @@
                <clock_settings>
                   <setting id="CCM.AHB_PODF.scale" value="1" locked="true"/>
                   <setting id="CCM.ARM_PODF.scale" value="2" locked="true"/>
+                  <setting id="CCM.FLEXIO2_CLK_PODF.scale" value="7" locked="false"/>
+                  <setting id="CCM.FLEXIO2_CLK_PRED.scale" value="4" locked="false"/>
                   <setting id="CCM.FLEXSPI2_PODF.scale" value="2" locked="true"/>
                   <setting id="CCM.FLEXSPI2_SEL.sel" value="CCM_ANALOG.PLL3_PFD0_CLK" locked="false"/>
                   <setting id="CCM.FLEXSPI_PODF.scale" value="2" locked="true"/>

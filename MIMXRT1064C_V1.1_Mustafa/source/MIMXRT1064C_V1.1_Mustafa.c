@@ -32,29 +32,26 @@
 #include "GlobalBuffer.h"
 #include "Tasks.h"
 #include "edma.h"
-
+#include "flexio3.h"
 
 
 
 
 
 int main(void) {
-
-    /* Init board hardware. */
     BOARD_ConfigMPU();
     BOARD_InitBootPins();
     BOARD_InitBootClocks();
     BOARD_InitBootPeripherals();
 #ifndef BOARD_INIT_DEBUG_CONSOLE_PERIPHERAL
-    /* Init FSL debug console. */
     BOARD_InitDebugConsole();
 #endif
 
-    PRINTF("Hello World\n");
+    SetupFlexio3Clock();
+
+    PRINTF("Program Start Mustafa ::: eDMA mem2mem ::: GlobalBuffer ::: Tasks\n");
 
     DMAMUX_Init(DMAMUX);
-
-
 #if defined(FSL_FEATURE_DMAMUX_HAS_A_ON) && FSL_FEATURE_DMAMUX_HAS_A_ON
     DMAMUX_EnableAlwaysOn(DMAMUX, 0, true);
 #else
@@ -63,32 +60,19 @@ int main(void) {
     DMAMUX_EnableChannel(DMAMUX, 0);
 
 
+    CreatexTasks();
 
+    Setup_EDMA();
+    Setup_EDMA_FLEXIO3_UART();
 
-   if(xTaskCreate(Task1,"Task1",1024,NULL,configMAX_PRIORITIES,&g_Task1Handel)!=pdPASS)
-	 PRINTF("Task Error Task1\r\n");
-
-
-   if(xTaskCreate(Task2,"Task2",1024,NULL,configMAX_PRIORITIES-2,&g_Task2Handel)!=pdPASS)
-	 PRINTF("Task Error Task2\r\n");
-
-   if(xTaskCreate(Task3,"Task3",1024,NULL,configMAX_PRIORITIES-3,&g_Task3Handel)!=pdPASS)
-   	 PRINTF("Task Error Task3\r\n");
-
-   edma_config_t userConfig;
-
-   EDMA_GetDefaultConfig(&userConfig);
-   EDMA_Init(DMA0, &userConfig);
-   EDMA_CreateHandle(&g_EDMA_Handle, DMA0, 0);
-   EDMA_SetCallback(&g_EDMA_Handle, EDMA_Callback, NULL);
+    SetupFlexio3Uart();
 
 
 
-   g_task1_status = eTaskGetState(g_Task1Handel);
-   g_task2_status = eTaskGetState(g_Task2Handel);
-   g_task3_status = eTaskGetState(g_Task3Handel);
+	PRINTF("Flexio3 Clock %d \r\n", FLEXIO3_Clock_Frequency);
 
-   vTaskStartScheduler();
+
+    vTaskStartScheduler();
 
 
 //#define configTOTAL_HEAP_SIZE                   ((size_t)(10240))
